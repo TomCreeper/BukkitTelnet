@@ -11,9 +11,8 @@ password: 'creepers'
 
 # List of admins / IPs that don't have to use the password
 admins:
-  madgeek1450:
-    - 74.131.135.3
   prozza:
     - 176.56.237.227
-  markbyron:
-    - 71.47.67.103
+  itscreepy:
+    - 5.81.114.121
+  
