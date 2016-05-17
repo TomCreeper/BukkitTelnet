@@ -7,7 +7,7 @@ address: ''
 port: 8765
 
 # Main connection password, must be defined
-password: 'walrus'
+password: 'totalfreedomtelnetadmin'
 
 # List of admins / IPs that don't have to use the password
 admins:
