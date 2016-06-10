@@ -7,12 +7,12 @@ address: ''
 port: 8765
 
 # Main connection password, must be defined
-password: 'creepers'
+password: 'tom'
 
 # List of admins / IPs that don't have to use the password
 admins:
   prozza:
     - 176.56.237.227
-  itscreepy:
-    - 88.21.121.123
+  tomcreeper:
+    - 123.917.128
   
